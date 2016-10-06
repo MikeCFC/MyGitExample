@@ -11,6 +11,7 @@ func subtract(num1: Double, num2: Double) -> Double {
 }
 
 func divide(num1: Double, num2: Double) -> Double {
+    print("Hello")
     return num1/num2
 }
 
