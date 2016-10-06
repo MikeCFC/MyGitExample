@@ -1,0 +1,2 @@
+# MyGitExample
+For test purposes
