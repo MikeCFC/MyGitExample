@@ -2,18 +2,18 @@
 
 import UIKit
 
-func add(num1: Bool, num2: Bool) -> Bool {
+func add(num1: Double, num2: Double) -> Double {
     return num1 + num2
 }
 
-func subtract(num1: Bool, num2: Bool) -> Bool {
+func subtract(num1: Double, num2: Double) -> Double {
     return num1 - num2
 }
 
-func divide(num1: Bool, num2: Bool) -> Bool {
+func divide(num1: Double, num2: Double) -> Double {
     return num1/num2
 }
 
-func multiply(num1: Bool, num2: Bool) -> Bool {
+func multiply(num1: Double, num2: Double) -> Double {
     return num1 * num2
 }
